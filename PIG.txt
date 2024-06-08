@@ -1,0 +1,5 @@
+PIG
+
+hello pig
+hello world 
+world of hadoop
